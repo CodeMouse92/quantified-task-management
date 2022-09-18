@@ -30,17 +30,17 @@ In planning, Quantified Tasks distinguishes between the importance of a task,
 which is typically fixed, and the urgency of the task, which is fluid.
 
 **Gravity** is the importance of a task to the goals of the project.
-G5 is considered absolutely essential, while G1 is a wishlist item.
+g5 is considered absolutely essential, while g1 is a wishlist item.
 Gravity is defined primarily by the product owner and stakeholders,
 in collaboration with the project manager.
 
 **Priority** is the urgency of the task, somewhat akin to a Kanban
-perspective (Now/Next/Later). P4 is considered a "Now" task, while P1
-is explicitly omitted from the schedule. P5 is a special value, indicating
+perspective (Now/Next/Later). p4 is considered a "Now" task, while p1
+is explicitly omitted from the schedule. p5 is a special value, indicating
 an "Emergency" task. Priority is defined by the project manager and developers,
 especially following Kanban or Scrum.
 
-Read more about [The Planning Measures](measures/planning.md).
+Read more about [The Planning Measures](/measures/planning.md).
 
 ### The Estimation Measures
 
@@ -48,16 +48,16 @@ Quantified Tasks empowers effective and honest (yes, really!) effort
 estimation, making it useful for roadmaps, sprint planning, and more.
 
 **Distance** is the estimated time frame for completion relative to a sprint,
-_if you understood everything about the task_. D1 would be a single work
-session, while D5 would exceed a sprint.
+_if you understood everything about the task_. d1 would be a single work
+session, while d5 would exceed a sprint.
 
 **Friction** is a measure of available documentation and precedence for
-completing the task. F1 would be a task for which there is a complete
-tutorial, while F5 would be pure invention.
+completing the task. f1 would be a task for which there is a complete
+tutorial, while f5 would be pure invention.
 
 **Relativity** is a measure of uncertainty, or the likelihood that the
-task is a "black hole" with an undeterminable completion date. R1 would
-be a task with no known uncertainty, while R5 has virtually no certainty.
+task is a "black hole" with an undeterminable completion date. r1 would
+be a task with no known uncertainty, while r5 has virtually no certainty.
 
 The formula `(Distance + Friction) * Relativity` yields an **Energy Points**
 value. This can be used in the same manner as Story Points or T-shirt sizes.
@@ -65,7 +65,7 @@ Possible Energy Point values follow a non-linear curve. Scores are higher
 when confidence is lower (Relativity is higher), ensuring estimates leave
 room for unknowns.
 
-Read more about [The Estimation Measures](measures/estimation.md)
+Read more about [The Estimation Measures](/measures/estimation.md)
 
 ### The Stability Measures
 
@@ -74,9 +74,9 @@ measures reveal patterns about the stability of your project. The numbers
 map to major phases of the Software Development Life Cycle.
 
 **Origin** represents the stage at which a bug originated: Requirements (O1),
-Design (O2), Coding (O3), SQA (O4), or Production (O5).
+Design (o2), Coding (o3), SQA (o4), or Production (o5).
 
-**Detected** represents the stage at which a bug is caught, from T1 to T5,
+**Detected** represents the stage at which a bug is caught, from t1 to t5,
 following the same stages as Origin.
 
 The **Volatility** is calculated as `Detected - Origin`. Higher volatility means
@@ -87,7 +87,7 @@ Taking the mean Volatility across your project gives you a
 project as a whole, because typically more bugs exist than are caught and
 reported.
 
-Read more about [The Stability Measures](measures/stability.md)
+Read more about [The Stability Measures](/measures/stability.md)
 
 ## FAQ
 
@@ -96,18 +96,18 @@ Read more about [The Stability Measures](measures/stability.md)
 **Yes!** Quantified Tasks is simple enough to fit in with your existing
 workflows, especially Agile. In Scrum, you would use Energy Points in
 place of Story Points. In Kanban, you'd associate Priority with your board
-columns. Read [Agile and Quantified Tasks](faq/agile.md).
+columns. Read [Agile and Quantified Tasks](/faq/agile.md).
 
 > Is Quantified Tasks compatible with my issue tracker?
 
 There are a few ways to use Quantified Tasks in your issue tracker,
-depending on its features. Read [Issue Tracker Usage](faq/issue_trackers.md).
+depending on its features. Read [Issue Tracker Usage](/faq/issue_trackers.md).
 
 > What about story points, T-shirt sizes, or Fibonacci numbers?
 
 Energy Points can be used in place of Story Points. It serves many of the
 same functions, but it has a few advantages. Read more about
-[Story Points or Energy Points](faq/story_points.md).
+[Story Points or Energy Points](/faq/story_points.md).
 
 > Who developed Quantified Tasks?
 
@@ -118,3 +118,11 @@ teams and projects.
 The concept of Volatility was originally devised by Kashif Gul Kazi,
 in his article [How I Measured The Software Testing Quality](https://dev.to/kashifkazi/how-i-measured-the-software-testing-quality-b60).
 It was adapted by Jason C. McDonald.
+
+> How is this related to Quantified Task Management?
+
+The Quantified Task Management standard, originally published by MousePaw Media,
+is the predecessor of Quantified Tasks. The name was simplified in this new
+version, partly to avoid confusion with another QTM (Quantitative Trust Management),
+and partly to move away from the bureaucratic sound of the word "management".
+A few improvements to the standard were made besides.
