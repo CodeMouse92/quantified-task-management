@@ -29,11 +29,10 @@ priority options, we recommend the following:
 * g3: Medium
 * g2: Low
 * g1: Lowest/Trivial
-* g0: Wishlist (or No Value)
 * gT: (No Value)
 
 If you're using Jira, you already have five possible values under their "Priority" field
-that you can equate to Gravity scores g1-g5.
+that you can equate to Gravity scores.
 
 ## Energy Points <-> Story Points
 

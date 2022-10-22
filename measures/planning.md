@@ -28,11 +28,10 @@ factor.
 * **g1: Trivial.** "Nice-to-have" tasks that take a back seat to all higher-gravity
   tasks. There must still be reasonable certainty these tasks will be included in a
   later release.
-* **g0: Wishlist.** All other tasks which have been properly discussed, but are not
-  definite inclusions in later releases.
 
-If a task hasn't been discussed yet, it should not be assigned a Gravity score.
-Depending on your task manager, you may choose to mark it as `gT: Triage`.
+If a task hasn't been discussed yet, or you're not sure it should be included,
+it should not be assigned a Gravity score. Depending on your issue tracker,
+you may choose to mark it as `gT: Triage`.
 
 As a rule, if everything is critical, nothing is critical! We estimate that your
 g5 and g4 tasks should account for only about 20% of your tasks. A good way to think
