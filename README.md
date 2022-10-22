@@ -109,6 +109,11 @@ Energy Points can be used in place of Story Points. It serves many of the
 same functions, but it has a few advantages. Read more about
 [Story Points or Energy Points](/faq/story_points.md).
 
+> Does Quantified Tasks really measure tasks?
+
+Yes! Quantified Tasks is the first objective technique for measuring tasks, so much so
+that it even allows you to [measure developer accomplishment](faq/accomplishment.md).
+
 > Who developed Quantified Tasks?
 
 Quantified Tasks was conceived and developed by Jason C. McDonald,
