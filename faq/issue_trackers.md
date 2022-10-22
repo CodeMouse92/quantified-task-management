@@ -62,7 +62,7 @@ include them in the description instead.
 
 ## Share Your Usage Patterns!
 
-If you have any patterns you'd like to share, email us at feedback (at this domain).
+If you have any patterns you'd like to share, email us at feedback (at the quantified tasks domain name).
 
 Additionally, if you are a designer or developer on an issue tracker, and you add support
 for Quantified Tasks, let us know! We want to spread the word.

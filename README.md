@@ -131,3 +131,8 @@ is the predecessor of Quantified Tasks. The name was simplified in this new
 version, partly to avoid confusion with another QTM (Quantitative Trust Management),
 and partly to move away from the bureaucratic sound of the word "management".
 A few improvements to the standard were made besides.
+
+## Feedback
+
+If you have questions, comments, or suggestions, please email us at
+feedback (at the quantified tasks domain name).
