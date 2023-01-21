@@ -40,7 +40,7 @@ is explicitly omitted from the schedule. p5 is a special value, indicating
 an "Emergency" task. Priority is defined by the project manager and developers,
 especially following Kanban or Scrum.
 
-Read more about [The Planning Measures](/measures/planning.md).
+Read more about [The Planning Measures](/measures/planning.html).
 
 ### The Estimation Measures
 
@@ -65,7 +65,7 @@ Possible Energy Point values follow a non-linear curve. Scores are higher
 when confidence is lower (Relativity is higher), ensuring estimates leave
 room for unknowns.
 
-Read more about [The Estimation Measures](/measures/estimation.md)
+Read more about [The Estimation Measures](/measures/estimation.html)
 
 ### The Stability Measures
 
@@ -87,7 +87,7 @@ Taking the mean Volatility across your project gives you a
 project as a whole, because typically more bugs exist than are caught and
 reported.
 
-Read more about [The Stability Measures](/measures/stability.md)
+Read more about [The Stability Measures](/measures/stability.html)
 
 ## FAQ
 
@@ -96,23 +96,23 @@ Read more about [The Stability Measures](/measures/stability.md)
 **Yes!** Quantified Tasks is simple enough to fit in with your existing
 workflows, especially Agile. In Scrum, you would use Energy Points in
 place of Story Points. In Kanban, you'd associate Priority with your board
-columns. Read [Agile and Quantified Tasks](/faq/agile.md).
+columns. Read [Agile and Quantified Tasks](/faq/agile.html).
 
 > Is Quantified Tasks compatible with my issue tracker?
 
 There are a few ways to use Quantified Tasks in your issue tracker,
-depending on its features. Read [Issue Tracker Usage](/faq/issue_trackers.md).
+depending on its features. Read [Issue Tracker Usage](/faq/issue_trackers.html).
 
 > What about story points, T-shirt sizes, or Fibonacci numbers?
 
 Energy Points can be used in place of Story Points. It serves many of the
 same functions, but it has a few advantages. Read more about
-[Story Points or Energy Points](/faq/story_points.md).
+[Story Points or Energy Points](/faq/story_points.html).
 
 > Does Quantified Tasks really measure tasks?
 
 Yes! Quantified Tasks is the first objective technique for measuring tasks, so much so
-that it even allows you to [measure developer accomplishment](faq/accomplishment.md).
+that it even allows you to [measure developer accomplishment](faq/accomplishment.html).
 
 > Who developed Quantified Tasks?
 

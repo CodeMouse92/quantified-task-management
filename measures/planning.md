@@ -3,7 +3,7 @@
 There are two Quantified Task measures related to planning work to be done on a project.
 This work is typically done up front by the project manager and the product owner
 Priority is adjusted as part of sprint planning, in conjunction with the
-[Estimation Measures](/measures/estimation.md) instead.
+[Estimation Measures](/measures/estimation.html) instead.
 
 ## Gravity
 

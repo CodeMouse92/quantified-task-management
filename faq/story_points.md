@@ -23,7 +23,7 @@ The real benefits of Story Points are also shared by Energy Points:
   is discovered.
 
 * Collaborative: Scoring is done as a team. Either point system can be used in Planning Poker
-  (see [The Estimation Measures](/measures/estimation.md).
+  (see [The Estimation Measures](/measures/estimation.html).
 
 ## What About Fibonacci?
 

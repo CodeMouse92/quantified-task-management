@@ -155,7 +155,7 @@ Energy Point equation in the task description, like this:
 (d2+f3)*r2 = 10
 ```
 
-(See also, [Issue Tracker Usage](/faq/issue_trackers.md).)
+(See also, [Issue Tracker Usage](/faq/issue_trackers.html).)
 
 As you get used to working with Energy Points, you will come to understand how much work
 you can take on in a given sprint. This is useful for allocating work and determining if your team will need additional developers. Since Distance is relative to a sprint, the average energy points you can complete in a sprint will often remain consistent even with sprints of different length.
@@ -163,5 +163,5 @@ As a result, however, Energy Points are "heavier" in longer sprints; you'll be a
 less points in a session when the sprints are longer.
 
 Energy Points are used in place of Story Points or T-Shirt Sizes in Agile workflows.
-(See also, [Story Points or Energy Points](/faq/story_points.md).)
+(See also, [Story Points or Energy Points](/faq/story_points.html).)
 
