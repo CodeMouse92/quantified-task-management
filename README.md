@@ -89,6 +89,11 @@ reported.
 
 Read more about [The Stability Measures](/measures/stability.html)
 
+### Rules
+
+When implementing Quantified Tasks on a team, there are a few simple rules you
+should abide by. These are outlined in [Rules](/rules.html).
+
 ## FAQ
 
 > Is the Quantified Tasks technique compatible with Agile, Scrum, and/or Kanban?

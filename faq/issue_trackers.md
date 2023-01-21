@@ -31,13 +31,8 @@ priority options, we recommend the following:
 * g1: Lowest/Trivial
 * gT: (No Value)
 
-If you're using Jira, you already have five possible values under their "Priority" field
+If you're using Jira, you may already have five possible values under their "Priority" field
 that you can equate to Gravity scores.
-
-## Energy Points <-> Story Points
-
-The Energy Points score belongs in the Story Points field, which most trackers have.
-For example, Jira and Phorge have Story Points, while GitLab Premium has Weight.
 
 ## Distance, Friction, and Relativity
 
@@ -53,6 +48,14 @@ these three measures as well.
 
 * GitHub and GitLab (among others) support arbitrary labels. These should look like
   `d3: Half Sprint` or `f4: Trail` for easy reading and quick adding.
+
+## Energy Points <-> Story Points
+
+The Energy Points score belongs in the Story Points field, which most trackers have.
+For example, Jira and Phorge have Story Points, while GitLab Premium has Weight.
+
+Jira Automation can be used to auto-populate "Story Point Estimate" from Distance, Friction, and
+Relativity.
 
 ## Stability Measures
 

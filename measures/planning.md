@@ -7,7 +7,7 @@ Priority is adjusted as part of sprint planning, in conjunction with the
 
 ## Gravity
 
-Gravity is the importance of a task in relation to the project as a whole.
+Gravity is the importance of a task in relation to the **product release**.
 It is useful for defining which features belong in each iteration of a product,
 and should be revised with each release.
 
@@ -31,13 +31,14 @@ factor.
 
 If a task hasn't been discussed yet, or you're not sure it should be included,
 it should not be assigned a Gravity score. Depending on your issue tracker,
-you may choose to mark it as `gT: Triage`.
+you may leave it blank or mark it as `gT: Triage`.
 
 As a rule, if everything is critical, nothing is critical! We estimate that your
-g5 and g4 tasks should account for only about 20% of your tasks. A good way to think
-about this is to imagine the minimum viable product (MVP), which contains only g5 features.
-An MVP is not going to be particularly fast, easy to use, or aesthetically pleasing;
-it is only going to perform its essential functions in the most Spartan manner possible.
+g5 and g4 tasks should account for only about 20% of your tasks (Pareto principle).
+A good way to think about this is to imagine the minimum viable product (MVP),
+which contains only g5 features. An MVP is often not going to be particularly fast,
+easy to use, or aesthetically pleasing; it is only going to perform its essential
+functions in the most Spartan manner possible.
 
 If you're a project manager, it is your duty to ensure the g5 and g4 lists are streamlined!
 Failure to do so will impair the developers in setting priorities and planning sprints.
@@ -47,13 +48,11 @@ Tasks), please read the article [Three Ground Rules for Sane Project Planning](h
 
 ## Priority
 
-Priority defines how soon the task needs to be completed. The project manager should define
-this up front with the client, with the understanding that the Developers will be
-adjusting this as part of sprint planning.
+Priority defines how soon the task needs to be completed, particularly related to **sprint planning**.
 
 Priority is similar to Kanban columns, especially Jira's task statuses.
 
-* **p1: Eventual.** Tasks which are not currently planned for the current or next sprint.
+* **p1: Backlog/Eventual.** Tasks which are not currently planned for the current or next sprint.
 * **p2: Later.** Tasks that may be included in next sprint. They may be pulled into the
   current sprint if time permits.
 * **p3: Next.** Tasks that should be completed in the current sprint. Developers should
@@ -76,9 +75,11 @@ Remember: if everything is an emergency, nothing is an emergency.
 
 Project managers must be prepared to push back on such requests, especially if product
 owners, clients, or stakeholders have an "emergency mentality". An effective way to do
-this is to requiring a description of consequences if the task is not completed immediately.
+this is to require a description of consequences if the task is not completed immediately.
 Additionally, one can require the product owner to identify at least one pending g5
 (or g4, if no g5 exists) that may be cut from the sprint to accommodate the emergency
 request. With the latter technique, only allow the product owner responsible for
 setting Gravity on tasks to make that call, lest you be caught in a proxy war between
 stakeholders over conflicting priorities.
+
+See also, [Rule of Emergencies](/rules.html)
