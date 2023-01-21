@@ -25,7 +25,7 @@ d3 f2 r3
 ```
 
 In practice, it doesn't take longer to settle all three of these than it would one number.
-The same conversations take place -- effort, precedence, and uncertainty -- but these insights
+The same conversations take place -- effort, precedent, and uncertainty -- but these insights
 are captured in the numbers.
 
 ## Distance
@@ -73,7 +73,7 @@ Resources to consider include:
 * Reference materials like documentation, articles, tutorials, and lectures. Consider the recency
   of such materials.
 
-* Precedence in code, either internal or open source. The overall health of this code -- good
+* Precedent in code, either internal or open source. The overall health of this code -- good
   practice, patterns, clean coding -- should be taken into account. Also consider the language,
   langauge version, and relevant dependency versions. If your task is in Python, code in Rust is
   likely less relevant than code in Javascript.
@@ -87,11 +87,11 @@ Remember to measure Friction objectively and empirically. It must _never_ take a
 actual skill or experience as a factor.
 
 * **f1: Highway.** Low-skill tasks, tutorial-guided work, low-hanging fruit, housekeeping.
-* **f2: Street.** Good reference materials, close precedence. Work occurs in relatively
+* **f2: Street.** Good reference materials, close precedent. Work occurs in relatively
   healthy source code. Some innovation may be required.
-* **f3: Off-Road.** Some reference materials, reasonable precedence. Significant innovation may
+* **f3: Off-Road.** Some reference materials, reasonable precedent. Significant innovation may
   be required, or work may occur in somewhat unhealthy source code.
-* **f4: Trail.** Sparse reference materials, distant precedence. Mostly innovation, or work
+* **f4: Trail.** Sparse reference materials, distant precedent. Mostly innovation, or work
   occurs in particularly unhealthy source code.
 * **f5: Jungle.** Uncharted territory. This issue ticket will self-destruct in fifteen seconds.
   Good luck, Mr. Hunt.
@@ -164,3 +164,4 @@ less points in a session when the sprints are longer.
 
 Energy Points are used in place of Story Points or T-Shirt Sizes in Agile workflows.
 (See also, [Story Points or Energy Points](/faq/story_points.md).)
+

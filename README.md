@@ -51,7 +51,7 @@ estimation, making it useful for roadmaps, sprint planning, and more.
 _if you understood everything about the task_. d1 would be a single work
 session, while d5 would exceed a sprint.
 
-**Friction** is a measure of available documentation and precedence for
+**Friction** is a measure of available documentation and precedent for
 completing the task. f1 would be a task for which there is a complete
 tutorial, while f5 would be pure invention.
 
